@@ -18,7 +18,7 @@ Versão inicial de uma calculadora simples em Python que realiza soma, diferenç
 
 
 
-    ### Como atualizar isso no GitHub   
+    ## Como atualizar isso no GitHub   
 1. Abra o `README.md` no VS Code, cole o conteúdo acima e salve (`Ctrl + S`).
 2. No terminal do VS Code, envie a atualização para o repositório:
 
