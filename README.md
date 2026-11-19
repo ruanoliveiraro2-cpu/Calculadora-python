@@ -1,7 +1,7 @@
 # Calculadora-python
-# Calculadora-python[cite: 10]
+# Calculadora-python
 
-Versão inicial de uma calculadora simples em Python que realiza soma, diferença, multiplicação e divisão inteira a partir de dois números informados no terminal[cite: 2, 7, 9, 10].
+Versão inicial de uma calculadora simples em Python que realiza soma, diferença, multiplicação e divisão inteira a partir de dois números informados no terminal[como por exemplo:4 e 2].
 
 ## Como executar
 
